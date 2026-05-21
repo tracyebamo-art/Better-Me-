@@ -1,1 +1,6 @@
-index_3.html
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/", "destination": "/index_3.html" }
+  ]
+}
