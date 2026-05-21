@@ -1,6 +1,3 @@
 {
-  "cleanUrls": true,
-  "rewrites": [
-    { "source": "/", "destination": "/index_3.html" }
-  ]
+  "outputDirectory": "public"
 }
